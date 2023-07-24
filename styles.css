@@ -1,0 +1,132 @@
+
+.body-container{
+background-color:#eeeffc;
+font-family: 'poppins', sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+width: 100vw;
+}
+.container{
+height: 550px;
+width: 60%;
+background-color: white;
+border-radius: 0.2em;
+box-shadow:0 10px 10px rgb(208, 215, 208);
+}
+.tp{
+margin-top:-20px;
+}
+.header{
+display: flex;
+justify-content: space-between;
+}
+h6{
+margin:15px;
+color: gray;
+font-size: 13px;
+}
+h1{
+margin:15px;
+color: gray;
+font-size: 13px;
+}
+.cards{
+display: flex;
+}
+.card-1{
+width:45%;
+height:500px;
+background-color:white;
+border-right-width:1px;
+border-right-color:rgb(228, 220, 220);
+border-top-width:1px;
+}
+.dep{
+background-color:rgb(211, 197, 197);
+display: flex;
+align-items: center;
+justify-content: center;
+width:30%;
+border-radius:3em;
+margin-left:30px;
+}
+.publish{
+align-items: center;
+display: flex;
+justify-content:center;
+
+}
+.material-symbols-outlined{
+font-size:15px;
+}
+h4{
+font-size:10px;
+}
+.card-2{
+width:55%;
+height:500px;
+background-color:white;
+border-top-width:1px;
+}
+.icon{
+padding:10px;
+border-bottom-width:1px;
+}
+h2{
+font-size:10px;
+font-weight: 600;
+}
+h3{
+font-size:9px;
+}
+.content{
+margin-left:50px;
+flex-direction: column;
+margin-top:-40px;
+}
+.btn{
+margin:40px;
+align-items: center;
+display: flex;
+margin-top:40px;
+justify-content: center;
+border-radius: 0.3em;
+background-color:blueviolet;
+padding:4px;
+width: 70%;
+}
+h8{
+color: gray;
+font-size:9px;
+}
+p{
+font-size:9px;
+color: gray;
+margin:20px;
+}
+.icons{
+margin-left:40px;
+margin-top:-45px;
+}
+.saction{
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+margin-right:50px;
+margin-top:-25px;
+}
+.saction-2{
+display: flex;
+justify-content:center;
+flex-direction: column;
+align-items: center;
+margin-left:230px;
+margin-top:-25px;
+}
+.auction{
+padding:0.6px;
+border-bottom-width:1px;
+}
